@@ -24,7 +24,6 @@
 
 
 
-![License](https://github.com/WonderBible/WonderBible.GitHub.Io/assets/151191818/445b72c3-5c43-43d8-a3b5-a8e02e77549f)
 
 
 ![WB Logo](https://wonderbible.world/WB%20Logo.png)
