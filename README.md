@@ -15,11 +15,14 @@
 
 ****WonderBIble Social Media****
 
+* <a href="https://wonderbible.world/">***The WonderBible Official Website***</a>
 * <a href="https://youtube.com/@Valt-Wel">***WonderBible Youtube***</a>
 * <a href="https://github.com/WonderBible">***WonderBible GitHub***</a>
 * <a href="https://discord.gg/8C4h8aFPt3">***WonderBible Discord***</a>
 * <a href="https://t.me/WonderBible">***WonderBible Telegram***</a>
-* <a href="https://github.com/WonderBible/WonderBible.GitHub.Io/discussions">***GitHub Repository Discussion***<a>
+
+Contact & Discussion
+* <a href="https://wonderbible.world/contact.html">***WonderBible Contact Page***</a> / <a href="https://github.com/WonderBible/WonderBible.GitHub.Io/discussions">***GitHub Repository Discussion***<a>
 
 
 
